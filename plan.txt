@@ -1,0 +1,89 @@
+Informatik 2 Plan : 
+
+
+
+Phase 1 : C++ Grundlagen 
+
+- Variablen und Datentypen
+- Ein- und Ausgabe
+- If Else Schleifen
+- For while do while loops
+- Arrays 
+- Scope
+- Typumwandlungen
+
+
+
+Phase 2 : OOP
+
+- Klassen
+- Objekte
+- Attribute
+- Methoden
+- Konstruktor
+- Kapselung
+- Vererbung
+- Polymorphie
+
+
+
+Phase 3 : 
+
+- Header-Dateien / Source-Dateien
+- Bereichsoperator ::
+- Implementierung von Klassenmethoden in separaten Dateien
+- Konstruktoren
+- Pointer
+- Modellierung 
+- Anforderungen und Use Cases 
+
+Zwischenstand : 
+- Standardkonstruktor
+- Parameterkonstruktor
+- Kopierkonstruktor
+- Referenz auf Variablen in Funktionen und Klassen
+- Referenz auf Objekten in Klassen
+- Pointer auf Variablen und Objekte in Funktionen und KLassen
+- Objekt kopieren 
+- This-Zeiger
+
+- statische und dynamische Objekte 
+- 
+
+Phase 4 : 
+
+- Besonderheiten beim Kopierkonstruktor 
+- Objektstruktur und -identität 
+- Speicheradressen von Objekten
+- Vergleich von Objekten
+- Objektstatus
+- Objektadresse ausgeben
+
+
+- static : Variablen und Methoden 
+- Vererbung und Konstruktoren
+- Basisklassen-Zeiger auf Unterklassen
+- Virtuelle Funktionen 
+- Methoden überschreiben
+- Laufzeitpolymorphie
+- Dynamisches Dispatching 
+- Abstrakte Klassen
+
+
+
+Phase 5 : 
+
+- Besondere Klassenbeziehungen : Friend-Klassen & -Funktionen
+- Operatorüberladung 
+- Globale Funktionen für Klassen schreiben
+
+
+
+Phase 6 : 
+
+- Exceptions ( Fehlerbehandlung ) 
+- Casts 
+- Templates
+
+
+
