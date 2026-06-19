@@ -1,0 +1,56 @@
+#include <iostream>
+using namespace std;
+
+class Auto {
+private:
+    int geschwindigkeit; 
+
+public:
+    string modell;
+    string farbe;
+
+    void info() {
+        cout << modell << farbe << endl;
+    }
+    
+    // setter 
+    void setGeschwindigkeit(int g) {
+        if (g >= 0) {
+            geschwindigkeit = g;
+        }
+    }
+    
+    // Getter 
+    int getGeschwindigkeit() {
+        return geschwindigkeit;
+    }
+
+};
+
+
+
+int main() {
+ 
+
+Auto audi; 
+
+audi.modell = "A7";
+audi.farbe = "Rot";
+
+audi.info();
+
+
+audi.setGeschwindigkeit(180);
+cout << endl << audi.getGeschwindigkeit();
+
+
+return 0;    
+}
+
+# Klassen 
+# public private Attributen
+# functions : void 
+# setter getter - Bearbeiten und ausgeben : private attributen
+# Vererbung
+
+
