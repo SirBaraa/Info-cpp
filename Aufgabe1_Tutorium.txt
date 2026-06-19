@@ -1,0 +1,35 @@
+Aufgabe 1 : Klasse Auto
+
+Erstelle eine Klasse Auto
+
+
+
+Private Attributen : 
+int baujahr;
+double kilometerstand;
+
+Public Attributen : 
+string marke;
+string modell;
+
+Methoden : 
+void fahren(double km);
+void zeigeInfo();
+
+void setBaujahr(int jahr);
+void setKilometerstand(double km);
+
+int getBaujahr();
+double getKilometerstand();
+
+
+
+
+
+Aufgabe
+1. Erstelle die Klasse Auto.
+2. Erstelle mindestens zwei Objekte von Auto.
+3. Setze marke und modell direkt.
+4. Setze baujahr und kilometerstand über Methoden.
+5. Lasse ein Auto fahren.
+6. Gib alle Informationen aus.

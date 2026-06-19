@@ -1,0 +1,58 @@
+Erstelle aus Aufgabe 2 folgende Dateien : 
+Header Datei
+Quelldatei class.cpp
+main.cpp 
+
+( mit Konstruktor ) 
+
+
+
+
+
+
+Aufgabe 2 – Vererbung: Auto und VW
+
+Erstelle eine Elternklasse Auto.
+
+Private Attributen : 
+baujahr;
+kilometerstand;
+
+Public Attributen : 
+marke;
+Modell; 
+
+Methoden :
+
+Informationen zeigen
+Fahren 
+setter von Baujahr
+getter von Baujahr
+setter von Kilometerstand
+getter von Kilometerstand
+
+
+Erstelle eine Tochterklasse VW
+Leite die Klasse VW von Auto ab.
+
+Private Attribute : 
+anzahl der Türen
+
+Public Attribute : 
+Ausstattung
+
+Methoden : 
+zeige die Informationen 
+
+setter von anzahl der Türen
+getter von Anzahl der Türen 
+
+
+
+Aufgabe
+1. Erstelle die Elternklasse Auto.
+2. Erstelle die Tochterklasse VW, die von Auto erbt.
+3. Erstelle ein Objekt der Klasse VW.
+4. Setze marke, modell und ausstattung direkt.
+5. Setze baujahr, kilometerstand und anzahlTueren über Methoden.
+6. Gib alle Informationen des VW aus.

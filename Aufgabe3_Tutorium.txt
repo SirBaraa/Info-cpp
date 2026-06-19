@@ -1,0 +1,14 @@
+Aufgabe 3 : 
+
+
+Erstelle eine beliebige Elternklasse mit zwei Tochterklassen
+Erstelle private und öffentliche Attributen
+Erstelle Methoden
+Erstelle drei Objekte 
+
+Beispiel : Person, Student, Professor
+Beispiel : Tier, Katze, Hund
+Beispiel : Gerät, Handy, Laptop
+
+
+Wähle eines dieser drei Beispiele aus! 

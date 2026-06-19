@@ -1,0 +1,108 @@
+Klasse Drohne - 
+
+Attributen : 
+- private : Modell, Seriennummer, Gewicht
+- Public : höhe, Akku
+
+
+- Methoden : 
+steigen()
+sinken()
+akkuLaden()
+akkuVerbrauch()
+
+info()
+	
+
+
+Klasse : Fluggerät
+
+
+
+steigen(int x) 
+Drohne Höhe : 0m 
+x = 2m
+
+höhe = höhe + x 
+höhe += h;
+
+akku = 100
+akku = 30
+a = 50
+30 + 50 = 80
+
+akku = 100 -> akku = 70
+akku -= a;
+
+
+
+Modell = Titan X1
+
+m = Titan X2
+
+Modell = m
+
+Modell = Titan X2
+
+
+set : Änderung von privaten Attributen ( void ) 
+get : Aufruf von Attributen! - return ( Datentyp ) 
+
+
+private Attributen : 
+Initialisierung über set-Methoden - oder direkt in der Klasse  
+d1.setModell();
+
+public Attributen : 
+Initialisierung direkt im main - oder direkt in der Klasse
+d1.hoehe = 0;
+
+
+Konstruktor - public - nach den Attributen 
+Standardkonstruktor
+Parameterkonstruktor
+Kopierkonstruktor
+Dekonstruktor
+
+this Zeiger - this pointer
+
+
+
+
+
+
+Vier Arten von Initialisierung der Attributen : 
+- Direkt im Main
+- Direkt in der Klasse 
+- Über Standardkonstruktor
+- im Main über Parameterkonstruktor
+- This Zeigen : 
+Drohne& ----(){
+
+
+	return *this;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

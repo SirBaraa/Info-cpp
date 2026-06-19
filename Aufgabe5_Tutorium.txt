@@ -1,0 +1,5 @@
+Ändere Aufgabe 2 folgendermaßen : 
+
+
+füge einen Standardkonstruktor, Parameterkonstruktor und this-Zeiger hinzu. 
+Rufe sie über mehrere Objekte auf. 
