@@ -1,0 +1,14 @@
+Aufgabe
+
+Schreibe ein Programm.
+
+Erstelle eine Variable
+int alter = 20;
+Erstelle einen Pointer auf diese Variable.
+Gib aus
+den Wert von alter
+die Speicheradresse von alter
+den Wert des Pointers
+den Wert, auf den der Pointer zeigt.
+Ändere den Wert über den Pointer auf 35.
+Gib anschließend den neuen Wert von alter aus.
