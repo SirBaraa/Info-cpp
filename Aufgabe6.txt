@@ -1,0 +1,9 @@
+Aufgabe
+
+Erstelle ein Programm.
+
+Lege eine Variable zahl mit dem Wert 25 an.
+Erstelle eine Referenz ref, die auf zahl verweist.
+Gib zuerst beide Werte aus.
+Ändere den Wert über ref auf 80.
+Gib anschließend beide Werte erneut aus.
