@@ -1,0 +1,17 @@
+Aufgabe
+
+Schreibe eine Funktion
+
+void erhoehen(int *zahl)
+
+Die Funktion soll
+
+den Wert um 10 erhöhen.
+
+Im main():
+
+Erstelle
+int konto = 90;
+Gib den Wert aus.
+Übergib die Adresse an die Funktion.
+Gib den Wert danach erneut aus.
