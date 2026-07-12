@@ -1,0 +1,17 @@
+Aufgabe
+
+Schreibe eine Funktion
+
+void verdoppeln(int &zahl)
+
+Die Funktion soll
+
+den Wert der Variable verdoppeln
+nichts zurückgeben.
+
+Im main():
+
+Erstelle eine Variable x = 15
+Gib den Wert aus.
+Rufe die Funktion auf.
+Gib den Wert danach erneut aus.
